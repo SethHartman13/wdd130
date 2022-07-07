@@ -166,8 +166,14 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
+h1 {
+  padding-top: 30px;
+}
+
 p {
   font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 img.Home {
@@ -265,4 +271,9 @@ p a {
 .grid-home-bottom-label {
   grid-row: 7/8;
   text-align: center;
+}
+
+.heading-img {
+  width: 450px;
+  height: 150px;
 }
